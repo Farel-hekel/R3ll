@@ -19,6 +19,5 @@ $ pip2 install futures
 $ git clone https://github.com/Farel-Hekel/R3ll
 
 cd R3ll
-python2
 
-R3ll.py
+python2 R3ll.py
